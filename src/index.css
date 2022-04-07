@@ -1,0 +1,20 @@
+.modal{
+    background: #000000e6;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    
+}
+
+.cerrarModal{
+    background-color: aqua;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
