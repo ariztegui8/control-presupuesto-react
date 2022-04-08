@@ -10,11 +10,35 @@
 }
 
 .cerrarModal{
-    background-color: aqua;
+    background-color: #fb05059e;
     position: absolute;
     top: 20px;
     right: 20px;
     font-size: 16px;
     cursor: pointer;
-    padding: 10px 20px;
+    padding: 5px 15px;
+    color: #fff;
+}
+
+.formulario{
+    background-color: darkgrey;
+    width: 50%;
+    margin: auto;
+}
+
+.input-form{
+    margin: 40px 0px;
+    font-size: 20px;
+}
+
+.input-submit{
+    font-size: 20px;
+    color: #fff;
+    background-color: green;
+    margin-bottom: 20px;
+}
+
+legend{
+    font-size: 35px;
+    font-weight: 600;
 }
